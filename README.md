@@ -62,7 +62,7 @@ dt.predict([[5,6]])
 ### 3. isnull() and sum()
 ![image](https://github.com/balaji-21005757/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/94372294/ce234c06-6da2-4559-8e81-cd2f67a70666)
 ### 4. data.head() for salary 
-![image](https://github.com/balaji-21005757/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/94372294/b3bc2ade-5d22-478d-8e99-16b027e463ad)
+![image](https://github.com/balaji-21005757/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/94372294/11d76c7f-eedd-4660-9994-7642a1a5e1e9)
 ### 5. MSE value
 ![image](https://github.com/balaji-21005757/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/94372294/65f1a917-84d9-4eea-b103-5abff8aa1d3a)
 ### 6. r2 value
